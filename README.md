@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 
 I enjoy using technology to make things easier for others.
+I'm a fan of keeping things simple while still being effective.
 
 ### My Interests:
 - 🖧 Computer Networking
