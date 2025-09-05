@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I enjoy using technology to make things easier for others.
+I enjoy using technology to make things easier.
 
 ### My Interests:
 - 🖧 Computer Networking
